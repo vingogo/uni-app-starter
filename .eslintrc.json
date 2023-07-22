@@ -1,0 +1,3 @@
+{
+  "extends": "@vingogo/eslint-config-vue"
+}

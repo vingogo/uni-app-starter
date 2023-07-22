@@ -1,0 +1,30 @@
+{
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "^vin-(.*)": "@vingogo/uni-ui/lib/components/$1/index.vue"
+    }
+  },
+  "pages": [
+    {
+      "path": "pages/index",
+      "type": "home"
+    },
+    {
+      "path": "pages/hi",
+      "type": "page",
+      "layout": "home"
+    }
+  ],
+  "globalStyle": {
+    "backgroundColor": "@bgColor",
+    "backgroundColorBottom": "@bgColorBottom",
+    "backgroundColorTop": "@bgColorTop",
+    "backgroundTextStyle": "@bgTxtStyle",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTextStyle": "@navTxtStyle",
+    "navigationBarTitleText": "Vitess-Uni",
+    "navigationStyle": "custom"
+  },
+  "subPackages": []
+}
