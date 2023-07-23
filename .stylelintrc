@@ -18,6 +18,14 @@
           "deep"
         ]
       }
+    ],
+    "selector-type-no-unknown": [
+      true,
+      {
+        "ignoreTypes": [
+          "/^page/"
+        ]
+      }
     ]
   }
 }

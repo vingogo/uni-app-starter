@@ -8,7 +8,7 @@
 - 🗂 [基于文件的约定式路由](./src/pages)
 - 📦 [组件自动化加载](./src/components)
 - 📑 [布局系统](./src/layouts)
-- 😃 [px自动转换](https://github.com/Genuifx/postcss-pxtorpx-pro)
+- 😃 [px 自动转换](https://github.com/Genuifx/postcss-pxtorpx-pro)
 - 🍍 [使用 Pinia 的状态管理](https://pinia.vuejs.org)
 - 🔥 使用 [新的 `<script setup>` 语法](https://github.com/vuejs/rfcs/pull/227)
 - 📥 [API 自动加载](./src/composables) - 直接使用 Composition API 无需引入
@@ -20,7 +20,7 @@
 
 ### UI 框架
 
-- [@vingogo/uni-ui](https://github.com/vingogo/vin-ui) - 京东(nutui)风格的移动端 Vue3 组件库 、支持多端小程序(uniapp版本)
+- [@vingogo/uni-ui](https://github.com/vingogo/vin-ui) - 京东(nutui)风格的移动端 Vue3 组件库 、支持多端小程序(uniapp 版本)
 
 ### 测试框架
 
@@ -39,7 +39,7 @@
 ### 编码风格
 
 - 使用 [`<script setup>` 的 SFC 语法](https://github.com/vuejs/rfcs/pull/227) 与 Composition API 结合使用。
-- 使用 [ESLint](https://eslint.org/) 工具检查JS/TS，并使用 [@vingogo/eslint-config-vue](https://github.com/vingogo/vin-cli/blob/master/packages/eslint-config-vue) 配置
+- 使用 [ESLint](https://eslint.org/) 工具检查 JS/TS，并使用 [@vingogo/eslint-config-vue](https://github.com/vingogo/vin-cli/blob/master/packages/eslint-config-vue) 配置
 - 使用 [Stylelint](https://stylelint.io/) 工具检查样式，并使用 [@vingogo/stylelint-config](https://github.com/vingogo/vin-cli/tree/master/packages/stylelint-config) 配置
 - 使用 [Prettier](https://prettier.io/) 工具处理代码风格，并使用 [@vingogo/prettier-config](https://github.com/vingogo/vin-cli/tree/master/packages/prettier-config) 配置
 
@@ -75,4 +75,3 @@ pnpm i # 如果你没装过 pnpm, 可以先运行: npm install -g pnpm
 ### 运行
 
 参考 uni-app 官方文档： [运行、发布 uni-app](https://uniapp.dcloud.net.cn/quickstart-cli.html#%E8%BF%90%E8%A1%8C%E3%80%81%E5%8F%91%E5%B8%83uni-app)
-

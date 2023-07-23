@@ -5,13 +5,13 @@
 // Read more: https://github.com/vuejs/core/pull/3399
 import '@vue/runtime-core'
 
-export {}
+export {};
 
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
-    Counter: typeof import('./components/Counter.vue')['default']
-    Footer: typeof import('./components/Footer.vue')['default']
-    InputEntry: typeof import('./components/InputEntry.vue')['default']
-    Logos: typeof import('./components/Logos.vue')['default']
+    Counter: typeof import('./components/Counter.vue')['default'];
+    Footer: typeof import('./components/Footer.vue')['default'];
+    InputEntry: typeof import('./components/InputEntry.vue')['default'];
+    Logos: typeof import('./components/Logos.vue')['default'];
   }
 }

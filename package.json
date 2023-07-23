@@ -73,7 +73,7 @@
     "husky": "^8.0.3",
     "lint-staged": "^13.2.2",
     "postcss-pxtorpx-pro": "^2.0.0",
-    "stylelint": "^15.7.0",
+    "stylelint": "^13.13.1",
     "typescript": "^5.0.4",
     "unplugin-auto-import": "^0.16.4",
     "vite": "4.3.9",

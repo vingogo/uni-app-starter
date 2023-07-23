@@ -4,12 +4,12 @@
 
 ```ts
 // dark.ts
-export const isDark = useDark()
+export const isDark = useDark();
 ```
 
 ```vue
 <script setup lang="ts">
-console.log(isDark)
+console.log(isDark);
 </script>
 ```
 

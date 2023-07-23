@@ -1,5 +1,3 @@
 {
-  "extends": [
-    "github>vingogo/renovate-config"
-  ]
+  "extends": ["github>vingogo/renovate-config"]
 }

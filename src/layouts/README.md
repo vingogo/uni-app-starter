@@ -7,7 +7,5 @@
 如果同时使用 [`vite-plugin-uni-pages`](https://github.com/uni-helper/vite-plugin-uni-pages) 和 [`vite-plugin-uni-layouts`](https://github.com/uni-helper/vite-plugin-uni-layouts)，您可以在页面的 SFC 中指定布局，如下所示：
 
 ```html
-<route lang="yaml">
-layout: home
-</route>
+<route lang="yaml"> layout: home </route>
 ```

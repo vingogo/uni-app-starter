@@ -11,11 +11,11 @@
 例如，原始为:
 
 ```ts
-import { isDark } from '../../../../composables'
+import { isDark } from '../../../../composables';
 ```
 
 现在你可以使用：
 
 ```ts
-import { isDark } from '@/composables'
+import { isDark } from '@/composables';
 ```
