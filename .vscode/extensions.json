@@ -2,7 +2,9 @@
   "recommendations": [
     "antfu.vite",
     "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
     "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
     "editorConfig.editorConfig",
     "uni-helper.uni-helper-vscode"
   ]
