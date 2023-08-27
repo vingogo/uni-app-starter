@@ -62,8 +62,7 @@ export default defineConfig({
     preprocessorOptions: {
       scss: {
         // eslint-disable-next-line quotes
-        additionalData:
-          "@import '@/styles/var.scss';@import '@vingogo/uni-ui/lib/styles/variables.scss';",
+        additionalData: "@import '@/styles/var.scss';",
       },
     },
   },

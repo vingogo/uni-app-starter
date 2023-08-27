@@ -9,9 +9,10 @@ export {};
 
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
-    Counter: typeof import('./components/Counter.vue')['default'];
-    Footer: typeof import('./components/Footer.vue')['default'];
     InputEntry: typeof import('./components/InputEntry.vue')['default'];
     Logos: typeof import('./components/Logos.vue')['default'];
+    VinButton: typeof import('@vingogo/uni-ui/lib/components/button/index.vue')['default'];
+    VinIcon: typeof import('@vingogo/uni-ui/lib/components/icon/index.vue')['default'];
+    VinInput: typeof import('@vingogo/uni-ui/lib/components/input/index.vue')['default'];
   }
 }

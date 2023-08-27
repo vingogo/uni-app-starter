@@ -45,8 +45,8 @@ dependencies:
     specifier: ^3.0.0-3080420230531001
     version: 3.0.0-alpha-3080320230523001(postcss@8.4.24)(ts-node@10.9.1)(vue@3.3.4)
   '@vingogo/uni-ui':
-    specifier: ^0.7.0
-    version: 0.7.0(vue-i18n@9.2.2)(vue@3.3.4)
+    specifier: ^0.8.0
+    version: 0.8.0(vue-i18n@9.2.2)(vue@3.3.4)
   pinia:
     specifier: ^2.0.36
     version: 2.0.36(typescript@5.0.4)(vue@3.3.4)
@@ -3633,8 +3633,8 @@ packages:
       - supports-color
     dev: true
 
-  /@vingogo/uni-ui@0.7.0(vue-i18n@9.2.2)(vue@3.3.4):
-    resolution: {integrity: sha512-OSRm/HJdTZeWkuYWvWf10ZhJrBlzqfJQfBgKoEUn/0rUk18mYf/w7pcym+tqh/PpjV0cJDHpbWIBmF7Fh0HwlQ==}
+  /@vingogo/uni-ui@0.8.0(vue-i18n@9.2.2)(vue@3.3.4):
+    resolution: {integrity: sha512-ZB7huQMoJt1dwbbpgopiS5JpTFU6hXG63xf7L4IYY2DidEIKyAP/inSVfWZ09PeK3MAWWLAy+e0oeomOnZQuXA==}
     peerDependencies:
       vue: ^3.2.45
       vue-i18n: ^9.1.9
